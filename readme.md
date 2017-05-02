@@ -20,7 +20,3 @@ In `query.txt`, should score like this:
     recall 0.9908256880733946
     precistion 0.8852459016393442
     score 2477.8032786885246
-
-
-
-code, approach description and result query to mlprague@ceai.io with subject "Raptor task".
